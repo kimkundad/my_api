@@ -1,0 +1,41 @@
+    [{
+        "name": "LITE",
+        "price": 100,
+        "period": "ต่อ USer",
+        "option": {
+            "item_option": [
+                {"value": "One Listing"},
+                {"value": "90 Days Availability"},
+                {"value": "Non-Featured"},
+                {"value": "Limited Support"},
+            ]
+        },
+        "recommend": 0
+    }, {
+        "name": "PRO",
+        "price": 150,
+        "period": "บวกเพิ่ม ต่อ User",
+        "option": {
+            "item_option": [
+                {"value": "One Time Fee"},
+                {"value": "One Listing"},
+                {"value": "Lifetime Availability"},
+                {"value": "Featured In Search Results"},
+                {"value": "24/7 Support"},
+            ]
+        },
+        "recommend": 1
+    }, {
+        "name": "PLUS",
+        "price": 200,
+        "period": "พร้อมรับ PRO + Customer display",
+        "option": {
+            "item_option": [
+                {"value": "Unlimited Listings"},
+                {"value": "Lifetime Availability"},
+                {"value": "Featured In Search Results"},
+                {"value": "24/7 Support"},
+            ]
+        },
+        "recommend": 0
+    }]
