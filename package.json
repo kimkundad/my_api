@@ -7,7 +7,7 @@
                 {"value": "One Listing"},
                 {"value": "90 Days Availability"},
                 {"value": "Non-Featured"},
-                {"value": "Limited Support"},
+                {"value": "Limited Support"}
             ]
         },
         "recommend": 0
@@ -21,7 +21,7 @@
                 {"value": "One Listing"},
                 {"value": "Lifetime Availability"},
                 {"value": "Featured In Search Results"},
-                {"value": "24/7 Support"},
+                {"value": "24/7 Support"}
             ]
         },
         "recommend": 1
@@ -34,7 +34,7 @@
                 {"value": "Unlimited Listings"},
                 {"value": "Lifetime Availability"},
                 {"value": "Featured In Search Results"},
-                {"value": "24/7 Support"},
+                {"value": "24/7 Support"}
             ]
         },
         "recommend": 0
