@@ -1,0 +1,85 @@
+[{
+    "id": 1,
+    "name": "promptRUB Mask (Black)",
+    "category": "product 1",
+    "price": 199,
+    "discount": 1,
+    "stock": 100,
+    "detail": "<p class='margin-top-10'>The GQWhite ™ Mask is constructed with a liquid-repellent 
+    exterior fabric, and a Perma™ antibacterial interior.
+     The mask is washable up to 30 times and comes with a 
+     secure fit head strap for a customizable fit. <br/>
+     Features: <br/>
+     - Liquid-repellent fabric mask <br/>
+     - Breathable <br/>
+     - Can be washed at least 30 times 
+     <br/>- The outer fabric uses the same liquid-repellent technology from our GQWhite ™ shirt. 
+     <br/>- Perma ™ inner fabric is soft, comfortable to wear and prevent bacteria growth 99.9% 
+     <br/>- Adjustable strap creates a better fit for better protection 
+     <br/>- 5 baht per day (Calculated from washing and reuse 30 times)</p>",
+    "image": "http://165.22.246.134/img/product/Image 1@2x.png",
+    "gallery": {
+        "gallery_image": [
+            {"value": "http://165.22.246.134/img/product/Image 3@2x.png"},
+            {"value": "http://165.22.246.134/img/product/Image 4@2x.png"},
+            {"value": "http://165.22.246.134/img/product/Image 1@2x.png"}
+        ]
+    },
+    "status": 1
+}, {
+    "id": 2,
+    "name": "promptRUB Mask (White)",
+    "category": "product 1",
+    "price": 199,
+    "discount": 1,
+    "stock": 100,
+    "detail": "<p class='margin-top-10'>The GQWhite ™ Mask is constructed with a liquid-repellent 
+    exterior fabric, and a Perma™ antibacterial interior.
+     The mask is washable up to 30 times and comes with a 
+     secure fit head strap for a customizable fit. <br/>
+     Features: <br/>
+     - Liquid-repellent fabric mask <br/>
+     - Breathable <br/>
+     - Can be washed at least 30 times 
+     <br/>- The outer fabric uses the same liquid-repellent technology from our GQWhite ™ shirt. 
+     <br/>- Perma ™ inner fabric is soft, comfortable to wear and prevent bacteria growth 99.9% 
+     <br/>- Adjustable strap creates a better fit for better protection 
+     <br/>- 5 baht per day (Calculated from washing and reuse 30 times)</p>",
+    "image": "http://165.22.246.134/img/product/Image 2@2x.png",
+    "gallery": {
+        "gallery_image": [
+            {"value": "http://165.22.246.134/img/product/Image 3@2x.png"},
+            {"value": "http://165.22.246.134/img/product/Image 4@2x.png"},
+            {"value": "http://165.22.246.134/img/product/Image 2@2x.png"}
+        ]
+    },
+    "status": 1
+}, {
+    "id": 3,
+    "name": "PLUS",
+    "category": "product 1",
+    "price": 200,
+    "discount": 1,
+    "stock": 100,
+    "detail": "<p class='margin-top-10'>The GQWhite ™ Mask is constructed with a liquid-repellent 
+    exterior fabric, and a Perma™ antibacterial interior.
+     The mask is washable up to 30 times and comes with a 
+     secure fit head strap for a customizable fit. <br/>
+     Features: <br/>
+     - Liquid-repellent fabric mask <br/>
+     - Breathable <br/>
+     - Can be washed at least 30 times 
+     <br/>- The outer fabric uses the same liquid-repellent technology from our GQWhite ™ shirt. 
+     <br/>- Perma ™ inner fabric is soft, comfortable to wear and prevent bacteria growth 99.9% 
+     <br/>- Adjustable strap creates a better fit for better protection 
+     <br/>- 5 baht per day (Calculated from washing and reuse 30 times)</p>",
+    "image": "http://165.22.246.134/img/product/Image 1@2x.png",
+    "gallery": {
+        "gallery_image": [
+            {"value": "http://165.22.246.134/img/product/Image 3@2x.png"},
+            {"value": "http://165.22.246.134/img/product/Image 4@2x.png"},
+            {"value": "http://165.22.246.134/img/product/Image 1@2x.png"}
+        ]
+    },
+    "status": 1
+}]
