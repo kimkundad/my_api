@@ -1,0 +1,53 @@
+[{
+    "id": 1,
+    "username": "kim kundad",
+    "email": "kim.kundad@gmail.com",
+    "password": "$2y$10$zfJ12mMuwvCAQyKMEPM7ROKcodIa4dZGxDl2IOfdFn8fj7NVmDTjG",
+    "phone": "0858467417",
+    "access_token": "fBNECmQMG0CRAkb0Vn4yJuBzDWgCoMRToHGd386IGYfQXGLmYvriGYSruNzl",
+    "fname": "kim",
+    "lname": "kundad",
+    "avatar": "http://165.22.246.134/img/avatar/1483537975.png",
+    "status": 1,
+    "email_verified_at": "2020-08-01 14:27:38",
+    "created_at": "2020-08-01 14:27:38",
+    "updated_at": "2020-08-01 14:27:38",
+    "text_address": {
+        "address": [
+            {
+                "fname": "kim",
+                "lname": "kundad",
+                "phone": "0858467417",
+                "id_card": "1234567890000",
+                "company": "Robotel",
+                "company2": "สาขา 2",
+                "email": "kim.kundad@gmail.com",
+                "address_no": "20/426",
+                "address_name": "PRUKSAVILLE ",
+                "soi": "รามคำแหง - วงแหวน (ซอยมิสทีน)",
+                "road": "ราษฎร์พัฒนา",
+                "province": "กทม.",
+                "county": "สะพานสูง",
+                "district": "สะพานสูง",
+                "postal_code": "10250"
+            },
+            {
+                "fname": "kim",
+                "lname": "kundad",
+                "phone": "0858467417",
+                "id_card": "1234567890000",
+                "company": "Robotel",
+                "company2": "สาขา 2",
+                "email": "kim.kundad@gmail.com",
+                "address_no": "20/426",
+                "address_name": "PRUKSAVILLE ",
+                "soi": "รามคำแหง - วงแหวน (ซอยมิสทีน)",
+                "road": "ราษฎร์พัฒนา",
+                "province": "กทม.",
+                "county": "สะพานสูง",
+                "district": "สะพานสูง",
+                "postal_code": "10250"
+            }
+        ]
+    }
+}]
